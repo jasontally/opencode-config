@@ -1,12 +1,14 @@
 # OpenCode Configuration
 
-This repository contains my personal OpenCode configuration files.
+This repository contains my personal OpenCode configuration files. At this point the only notable thing in here is an additional primary agent called "web" that only has the web fetch, todo write and todo read tools enabled and has a version of the main opencode prompt that is changed to remove coding specific sections and to focus more on web research.
 
 ## Installation
 
 To clone this repository directly into your home directory at the correct location, run:
+##WARNING this will delete your existing opencode config WARNING## 
 
 ```bash
+rm -r ~/.config/opencode
 git clone https://github.com/jasontally/opencode-config.git ~/.config/opencode
 ```
 
