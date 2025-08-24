@@ -22,7 +22,7 @@ This will create the `~/.config/opencode` directory and download all configurati
 
 ## Usage
 
-After cloning, OpenCode should automatically detect and use these configuration files when you run it from any directory.
+After cloning, OpenCode should automatically detect and use these configuration files when you run it from any directory. Use the TAB key to switch between the default plan and bulid agents in addition to the web agent that this config adds.
 
 ## Customization
 
